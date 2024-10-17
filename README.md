@@ -1,2 +1,2 @@
-# Ecomm-Bootstrap
+# FASHIONNOVA
 Ecommerce site using Bootstrap 
